@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkx_ow_o_manual_website=self.webpackChunkkx_ow_o_manual_website||[]).push([[9868],{8865:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/KwazyXhaderOwO-Manual/blog/tags/hola","allTagsPath":"/KwazyXhaderOwO-Manual/blog/tags","count":1}')}}]);
