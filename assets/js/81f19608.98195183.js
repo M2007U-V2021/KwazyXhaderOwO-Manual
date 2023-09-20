@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkx_ow_o_manual_website=self.webpackChunkkx_ow_o_manual_website||[]).push([[2129],{8982:e=>{e.exports=JSON.parse('{"permalink":"/KwazyXhaderOwO-Manual/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
